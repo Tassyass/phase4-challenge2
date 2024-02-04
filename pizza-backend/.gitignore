@@ -1,0 +1,16 @@
+# pizza_backend/.gitignore
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.pyc
+*.pyo
+*.pyd
+instance/
+venv/
+__init__.py
+node_modules
